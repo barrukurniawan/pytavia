@@ -1,0 +1,5 @@
+- make sure if we fail to load a html file we say which file is the culprite
+- make sure we check that the path or the home directory is correct
+- write examples for each code base
+- develop a package update system
+- have a setup script that will download all the necessary requirements to start of the project
